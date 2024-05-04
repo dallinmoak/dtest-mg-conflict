@@ -1,2 +1,2 @@
 # dtest-mg-conflict
-nency change 1
+nency change 2
